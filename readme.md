@@ -1,4 +1,4 @@
-## Árvore impressa utilizando matplotlib;
+## Árvore de descisão impressa utilizando matplotlib;
 
 ![image](https://user-images.githubusercontent.com/50935241/121275111-50c0c580-c8a2-11eb-9f4d-4bb1e0ef255c.png)
 
